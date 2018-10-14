@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<list>
+    <lineList>
+        <line id="0">
+            <lineStartX>98.0</lineStartX>
+            <lineStartY>170.0</lineStartY>
+            <lineEndX>298.0</lineEndX>
+            <lineEndY>370.0</lineEndY>
+            <lineStrokeColor>0x663366ff</lineStrokeColor>
+        </line>
+    </lineList>
+    <rectangleList>
+        <rectangle id="0">
+            <rectStartX>411.0</rectStartX>
+            <rectStartY>302.0</rectStartY>
+            <rectWidth>200.0</rectWidth>
+            <rectHeight>100.0</rectHeight>
+            <rectArcWidth>0.0</rectArcWidth>
+            <rectArcHeight>0.0</rectArcHeight>
+            <rectStrokeColor>0xe64d4dff</rectStrokeColor>
+            <rectFillColor>0xb3b34dff</rectFillColor>
+        </rectangle>
+    </rectangleList>
+    <ellipseList>
+        <ellipse id="0">
+            <ellipseCenterX>481.0</ellipseCenterX>
+            <ellipseCenterY>166.0</ellipseCenterY>
+            <ellipseRadiusX>100.0</ellipseRadiusX>
+            <ellipseRadiusY>50.0</ellipseRadiusY>
+            <ellipseStrokeColor>0xcc8099ff</ellipseStrokeColor>
+            <ellipseFillColor>0xffcc80ff</ellipseFillColor>
+        </ellipse>
+    </ellipseList>
+</list>
